@@ -1,0 +1,13 @@
+{
+    "validUser": {
+      "username": "user123",
+      "email": "user123@automation.com",
+      "password": "password123"
+    },
+
+    "validUser2": {
+        "username": "user456",
+        "email": "user456@automation.com",
+        "password": "password456"
+    }
+  }
