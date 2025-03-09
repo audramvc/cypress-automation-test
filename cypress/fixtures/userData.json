@@ -1,13 +1,31 @@
 {
     "validUser": {
-      "username": "user123",
+      "name": "user123",
       "email": "user123@automation.com",
-      "password": "password123"
+      "password": "password123",
+      "firstName": "Sam",
+      "lastName": "Smith",
+      "dob": "1994-10-11",
+      "address": "123 main st",
+      "country": "United States",
+      "state": "CA",
+      "city": "California",
+      "zip": "12345",
+      "mobileNumber": "2215648888"
     },
 
     "validUser2": {
         "username": "user456",
         "email": "user456@automation.com",
-        "password": "password456"
+        "password": "password456",
+        "firstName": "Laura",
+        "lastName": "Jhonson",
+        "dob": "1990-11-19",
+        "address": "123 hoars st",
+        "country": "United States",
+        "state": "CA",
+        "city": "California",
+        "zip": "12245",
+        "mobileNumber": "2215643388"
     }
   }
